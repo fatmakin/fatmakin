@@ -5,7 +5,7 @@
 
 ## I'm a Computer Engineer 👨‍🎓, Full Stack Developer 🚀, I'm Patika.Dev Student  👨‍🎓!
 
- -🔭 I’m currently working on Erp System.
+- 🔭 I’m currently working on Erp System.
 - 🌱 I’m currently learning Node.js, Java Spring,Amazon Lambda and DynamoDB.
 - ⚡ Fun fact: I love play volleyball, Swimming, reading a book ✨
 
