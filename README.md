@@ -34,8 +34,8 @@ I also work as a FreeLancer 🆓.
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Flutter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />][vs]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-[<img align="left" alt="Android" width="26px" src="https://images.app.goo.gl/YYbJVyYbv71W584G6" />][node]
-[<img align="left" alt="Adobe XD" width="26px" src="https://tr.wikipedia.org/wiki/Java_(programlama_dili)#/media/Dosya:Java_Logo.svg" />][java]
+[<img align="left" alt="node" width="26px" src="https://images.app.goo.gl/YYbJVyYbv71W584G6" />][node]
+[<img align="left" alt="java" width="26px" src="https://tr.wikipedia.org/wiki/Java_(programlama_dili)#/media/Dosya:Java_Logo.svg" />][java]
 
 <br />
 
