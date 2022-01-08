@@ -37,7 +37,7 @@ I also work as a FreeLancer 🆓.
 [<img align="left" alt="node" width="26px" src="https://images.app.goo.gl/YYbJVyYbv71W584G6" />][node]
 [<img align="left" alt="Flutter" width="26px" src="https://tr.wikipedia.org/wiki/Java_(programlama_dili)#/media/Dosya:Java_Logo.png" />][java]
 
-[<img align="left" alt="java" width="26px" src="https://tr.wikipedia.org/wiki/Java_(programlama_dili)#/media/Dosya:Java_Logo.png" />][java]
+[<img align="left" alt="java" width="26px" src="https://images.app.goo.gl/CMzLYwBncsKWq68v9" />][java]
 
 <br />
 
